@@ -11,5 +11,5 @@ a simple website made in html and css to watch movies and series
   <h3>Status: ✔Concluído</h3>
 
 <div>
-  <h3>📌Confira o resultado <a href="https://ciniflix.netlify.app">Aqui </a></h3>
+  <h3>📌Confira o resultado <a target="_blank" href="https://ciniflix.netlify.app">Aqui </a></h3>
 </div>
